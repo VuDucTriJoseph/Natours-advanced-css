@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compiler:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VuDucTriJoseph/Natours-advanced-css.git"
+  },
+  "author": "Joseph Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VuDucTriJoseph/Natours-advanced-css/issues"
+  },
+  "homepage": "https://github.com/VuDucTriJoseph/Natours-advanced-css#readme",
+  "devDependencies": {
+    "sass": "^1.93.2"
+  }
+}
