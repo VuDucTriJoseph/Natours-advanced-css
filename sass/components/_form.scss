@@ -12,7 +12,7 @@
     background-color: rgba($color-white, 0.5);
     border: none;
     border-bottom: 3px solid transparent;
-    width: 60%;
+    width: 90%;
     display: block;
     transition: all 0.3s;
 
@@ -47,12 +47,12 @@
   }
 
   &__radio-group {
-    width: 40%;
+    width: 49%;
     display: inline-block;
   }
 
   &__radio-input {
-    // display: none;
+    display: none;
   }
 
   &__radio-label {
@@ -69,7 +69,7 @@
     border-radius: 50%;
     display: inline-block;
     position: absolute;
-    top: -0.4rem;
+    top: 0;
     left: 0;
     transition: opacity 0.2s;
 
